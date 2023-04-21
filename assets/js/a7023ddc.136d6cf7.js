@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkinventory_oasis_github_io=self.webpackChunkinventory_oasis_github_io||[]).push([[713],{3457:e=>{e.exports=JSON.parse('[{"label":"hello","permalink":"/blog/tags/hello","count":1}]')}}]);

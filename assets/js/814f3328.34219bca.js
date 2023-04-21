@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkinventory_oasis_github_io=self.webpackChunkinventory_oasis_github_io||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/blog/welcome"}]}')}}]);

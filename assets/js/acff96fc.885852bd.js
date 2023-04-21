@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkinventory_oasis_github_io=self.webpackChunkinventory_oasis_github_io||[]).push([[332],{5745:s=>{s.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);
