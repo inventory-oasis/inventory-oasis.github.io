@@ -15,7 +15,7 @@ const FeatureList: FeatureItem[] = [
     description: (
       <>
         Yes was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        aloda to get your website up and running quickly.
       </>
     ),
   },
