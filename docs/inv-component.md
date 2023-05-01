@@ -67,10 +67,10 @@ Adds an item with the specified amount to the inventory. If successful returns t
 
 ### _Array[bool, int] inv_query ( String item_name, int item_amount )_
 Returns if the inventory has enough of an item, and how much is the total amount.
-```
+```gdscript
 var query = inv_query("Item1", 2)
-query[0] -> bool, is the query successful
-query[1] -> int, total amount of this item in inv
+query[0] # -> bool, is the query successful
+query[1] # -> int, total amount of this item in inv
 ```
 
 ### _bool inv_remove_by_name ( String item_name, int item_amount )_
